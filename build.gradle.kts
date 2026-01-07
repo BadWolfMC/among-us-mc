@@ -35,7 +35,7 @@ dependencies {
     compileOnly("com.mojang:authlib:2.1.28")
     compileOnly("com.github.decentsoftware-eu:decentholograms:2.9.9")
     compileOnly("com.github.NEZNAMY:TAB-API:5.4.0")
-    implementation("commons-io:commons-io:2.16.1")
+    implementation("commons-io:commons-io:2.21.0")
 
     compileOnly(files("libs/VentureChat.jar")) // 3.7.1
     //compileOnly(files("libs/CMI-API.jar") // 9.0.0.0
