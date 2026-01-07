@@ -43,6 +43,6 @@ dependencies {
 
 tasks {
     compileJava {
-        options.release = 17
+        options.release = 21
     }
 }
