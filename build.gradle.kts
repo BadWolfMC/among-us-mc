@@ -33,7 +33,7 @@ dependencies {
     compileOnly("org.black_ixx:playerpoints:3.2.7")
     compileOnly("me.clip:placeholderapi:2.11.7")
     compileOnly("com.mojang:authlib:2.1.28")
-    compileOnly("com.github.decentsoftware-eu:decentholograms:2.8.8")
+    compileOnly("com.github.decentsoftware-eu:decentholograms:2.9.9")
     compileOnly("com.github.NEZNAMY:TAB-API:5.4.0")
     implementation("commons-io:commons-io:2.16.1")
 
