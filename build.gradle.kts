@@ -30,7 +30,7 @@ dependencies {
     compileOnly("org.spigotmc:spigot-api:1.19.4-R0.1-SNAPSHOT")
     compileOnly("com.github.retrooper:packetevents-spigot:2.9.1")
     compileOnly("me.filoghost.holographicdisplays:holographicdisplays-api:3.0.0")
-    compileOnly("org.black_ixx:playerpoints:3.2.7")
+    compileOnly("org.black_ixx:playerpoints:3.3.3")
     compileOnly("me.clip:placeholderapi:2.11.7")
     compileOnly("com.mojang:authlib:2.1.28")
     compileOnly("com.github.decentsoftware-eu:decentholograms:2.9.9")
