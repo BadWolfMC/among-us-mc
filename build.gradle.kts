@@ -28,7 +28,7 @@ repositories {
 dependencies {
     // This is temporary until the plugin is rewritten...
     compileOnly("org.spigotmc:spigot-api:1.21.11-R0.1-SNAPSHOT")
-    compileOnly("com.github.retrooper:packetevents-spigot:2.11.1")
+    compileOnly("com.github.retrooper:packetevents-spigot:2.11.2")
     compileOnly("me.filoghost.holographicdisplays:holographicdisplays-api:3.0.5")
     compileOnly("org.black_ixx:playerpoints:3.3.3")
     compileOnly("me.clip:placeholderapi:2.11.7")
