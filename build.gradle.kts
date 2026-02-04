@@ -31,7 +31,7 @@ dependencies {
     compileOnly("com.github.retrooper:packetevents-spigot:2.11.1")
     compileOnly("me.filoghost.holographicdisplays:holographicdisplays-api:3.0.5")
     compileOnly("org.black_ixx:playerpoints:3.3.3")
-    compileOnly("me.clip:placeholderapi:2.11.7")
+    compileOnly("me.clip:placeholderapi:2.12.1")
     compileOnly("com.mojang:authlib:7.0.61")
     compileOnly("com.github.decentsoftware-eu:decentholograms:2.9.9")
     compileOnly("com.github.NEZNAMY:TAB-API:5.4.0")
